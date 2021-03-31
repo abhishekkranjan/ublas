@@ -1,0 +1,12 @@
+Element in vector v : 5 6 7 8 9 10 11 12 
+size: 8
+v[2]: 7
+Popped Element: 12
+5 6 7 8 9 10 11 
+
+For Char data_type
+Element in vector c : a b c d e f g h 
+size: 8
+c[2]: c
+pop: h
+Element in vector c : a b c d e f g 
